@@ -8,7 +8,8 @@ const projects = [
     name: "Management Database by MYSQL",
     description:
       "Experience in database manipulation and MySQL database management. Projects I have completed include data analysis of transaction data from the Data Analysis Bootcamp. Additionally, I have been using MySQL since the second semester of my studies.",
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/dbms1%20(1).png",
     link: { github: "https://github.com/IqmalBA/DBMS" },
   },
   {
@@ -17,7 +18,8 @@ const projects = [
     name: "Analyst Data Selling Product",
     description:
       "Projects I have completed include those from the MySkill Data Analyst Bootcamp, Independent Data Scientist Study, and several final assignments from my coursework. Below are links to some of these projects.",
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/py4%20(1).png",
     link: { github: "https://github.com/IqmalBA/analyst_data_selling_product" },
   },
   {
@@ -26,7 +28,8 @@ const projects = [
     name: "Management Excel",
     description:
       "The Excel-based projects are outputs from the Independent Data Scientist and Analyst Study, where the projects involved data analysis. Additionally, there are several projects from the MS Office Training Institute assignments.",
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel 2%20(1).png",
     link: { github: "https://github.com/IqmalBA/management_use_excel" },
   },
   {
@@ -35,7 +38,8 @@ const projects = [
     name: "Data Visualization",
     description:
       "The projects I created are based on the Data Analyst Bootcamp and Independent Data Scientist Study. They involve visualizing analyzed data from various cases using tools such as Excel, Tableau, and Looker Studio.",
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/visual1%20(1).png",
     link: {
       table:
         "https://public.tableau.com/app/profile/ana.beth/viz/Tugasdashboardindividu/Dashboard1",
@@ -47,7 +51,8 @@ const projects = [
     name: "Writer and Story Telling",
     description:
       "My projects are derived from Independent Study, skill training, and internships as a Copywriter and Content Writer. I have written blogs, conducted digital marketing analysis, and created journals with data sources.",
-    image: "",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/writ2%20(1).png",
     link: {
       book: "https://blog.hellocation.id/author/iqmal-bahrudin/",
       file: "https://drive.google.com/drive/folders/1P7lwK1D_CQaem9LbZ035CvejXEH-4oQK?usp=sharing",
@@ -59,7 +64,7 @@ export default function Project() {
   return (
     <Template>
       <main className="mt-16 flex flex-col items-center text-center px-4">
-        <h1 className="text-4xl font-bold mb-8 text-gray-300">My Projects</h1>
+        <h1 className="text-4xl font-bold mb-8 text-gray-300">My Portofolio</h1>
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 w-full max-w-6xl">
           {projects.map((project) => (
             <div
