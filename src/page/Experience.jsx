@@ -8,6 +8,8 @@ const experiences = [
     duration: "2024",
     description:
       "In this independent study, I focused on data analysis ​and data science in collaboration with MojadiApp. ​Here, I learned data analysis, data visualization, and ​various skills related to data analysis, as well as ​other soft skills such as creative thinking, critical ​thinking, and more.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel 2%20(1).png",
   },
   {
     id: 2,
@@ -16,6 +18,8 @@ const experiences = [
     duration: "2023",
     description:
       "In this bootcamp, I learned about data analysis, ​problem-solving, and how to utilize analysis tools ​such as Python, databases, and Looker Studio to ​solve problems through case studies..",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel 2%20(1).png",
   },
   {
     id: 3,
@@ -24,6 +28,8 @@ const experiences = [
     duration: "2020",
     description:
       "During the LPK training, I learned various ​formulas, tips, and techniques for using MS ​Office tools, including Excel functions and ​more..",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel 2%20(1).png",
   },
 ];
 
