@@ -23,7 +23,7 @@ export default function Home() {
         </p>
 
         <a
-          href="github.com/"
+          href="https://github.com/IqmalBA"
           className="mt-6 flex  bg-gray-300 text-black px-6 py-2 rounded gap-1 hover:bg-gray-600 cursor-pointer"
         >
           <Icon name={"github"} />
