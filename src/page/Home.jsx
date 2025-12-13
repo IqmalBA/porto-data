@@ -85,10 +85,13 @@ export default function Home() {
           Hello, <br /> I'm Iqmal Bahrudin
         </p>
         <p className="mt-2 max-w-md text-gray-400">
-          An Information Systems student with strong analytical, management,
-          digital marketing, and problem-solving skills. Proficient in
-          data-driven management, problem-solving, data structures, MySQL, and
-          Python.
+          An Information Systems graduate with strong analytical and
+          problem-solving skills, focused on delivering measurable business
+          impact through data analytics. Experienced in database management,
+          data analysis, and data visualization using MySQL and Python to
+          transform raw data into actionable insights. Capable of supporting
+          strategic decision-making, improving operational efficiency, and
+          driving data-informed business outcomes.
         </p>
 
         <a
