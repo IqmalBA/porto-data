@@ -31,6 +31,46 @@ const experiences = [
     image:
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/certidf.jpg",
   },
+  {
+    id: 4,
+    title: "Digital Marketing and AI Influencer Management (LinkedIn/X) ",
+    company: "SF Group Enternprise",
+    duration: "2025",
+    description:
+      "SF Group is a full-service agency focused on developing premium niche projects, including gaming graphics, online marketplaces, and B2B platforms. I developed and published content on LinkedIn and X (Twitter), creating engaging and optimized posts aligned with clients’ brand identities and digital marketing objectives to maximize audience reach.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/sff.jpg",
+  },
+  {
+    id: 5,
+    title: "Administrative Officer",
+    company: "PT. Mardel Mitra Sejahtera",
+    duration: "2025",
+    description:
+      "PT. Mardel Mitra Sejahtera is an employment agency that connects Indonesian job seekers with domestic and overseas employers. I conducted interviews and managed worker biodata for overseas placement, verified administrative documents to ensure regulatory compliance, and managed social media content while implementing digital marketing strategies to improve the organization’s visibility and reputation.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/marrdel.jpg",
+  },
+  {
+    id: 6,
+    title: "Content Writter",
+    company: "Hellocation",
+    duration: "2023",
+    description:
+      "Hellocation.id is an edutech startup focused on providing information about scholarships and overseas study opportunities. I created social media Feed and Reels content based on assigned themes, wrote SEO-friendly articles with clear readability, and paraphrased various sources to support structured and effective content development.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/hellocation.jpg",
+  },
+  {
+    id: 7,
+    title: "Copy Writter",
+    company: "PT. Partner Impian Milenial (SCHOTERS)",
+    duration: "2023",
+    description:
+      "SCHOTERS is Southeast Asia’s leading digital education platform providing end-to-end preparation programs for studying abroad, with or without scholarships. I analyzed buyer personas and market trends to create promotional copywriting using AIDA and BAB frameworks, ensuring messaging was targeted, persuasive, and aligned with audience needs.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/schooters.jpg",
+  },
 ];
 
 export default function Experience() {

@@ -41,8 +41,7 @@ const projects = [
     image:
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/visual1%20(1).png",
     link: {
-      table:
-        "https://public.tableau.com/app/profile/ana.beth/viz/Tugasdashboardindividu/Dashboard1",
+      table: "https://public.tableau.com/app/profile/iqmal.bahrudin/vizzes",
       github: "https://github.com/IqmalBA/visualitation_data",
     },
   },
@@ -56,6 +55,16 @@ const projects = [
     link: {
       book: "https://blog.hellocation.id/author/iqmal-bahrudin/",
       file: "https://drive.google.com/drive/folders/1P7lwK1D_CQaem9LbZ035CvejXEH-4oQK?usp=sharing",
+    },
+  },
+  {
+    id: 5,
+    name: "All Certificate",
+    description: "My Document Certificate",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/serif.png",
+    link: {
+      file: "https://drive.google.com/drive/u/0/folders/1QSWpl-8dALtdtYgrYCLPKTT7VjMcitBo",
     },
   },
 ];
