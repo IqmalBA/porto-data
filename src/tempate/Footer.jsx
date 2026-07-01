@@ -5,7 +5,7 @@ export default function Footer() {
         <p className="text-sm">
           &copy; {new Date().getFullYear()} Iqmal Bahrudin. All Rights Reserved.
         </p>
-        <p className="text-sm">iqmalbah@gmail.com</p>
+        <p className="text-sm">iqmalbahrudin7@gmail.com</p>
       </div>
     </footer>
   );
