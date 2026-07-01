@@ -35,9 +35,9 @@ const projects = [
   {
     id: 4,
     isDoble: true,
-    name: "Data Visualization",
+    name: "MSIB Data Analytics & Data Science Capstone | MojadiApp",
     description:
-      "The projects I created are based on the Data Analyst Bootcamp and Independent Data Scientist Study. They involve visualizing analyzed data from various cases using tools such as Excel, Tableau, and Looker Studio.",
+      "Final capstone project completed during the Certified Independent Study (MSIB) program by the Indonesian Ministry of Education in collaboration with MojadiApp, focusing on Data Analytics, Data Science, and business insights",
     image:
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/visual1%20(1).png",
     link: {
@@ -53,18 +53,46 @@ const projects = [
     image:
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/writ2%20(1).png",
     link: {
-      book: "https://blog.hellocation.id/author/iqmal-bahrudin/",
+      medium: "https://medium.com/@iqmalbah",
+      blog: "https://blog.hellocation.id/author/iqmal-bahrudin/",
       file: "https://drive.google.com/drive/folders/1P7lwK1D_CQaem9LbZ035CvejXEH-4oQK?usp=sharing",
     },
   },
   {
-    id: 5,
+    id: 6,
     name: "All Certificate",
     description: "My Document Certificate",
     image:
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/serif.png",
     link: {
       file: "https://drive.google.com/drive/u/0/folders/1QSWpl-8dALtdtYgrYCLPKTT7VjMcitBo",
+    },
+  },
+  {
+    id: 7,
+    isDoble: true,
+    name: "SaaS Growth & Retention Analytics",
+    description:
+      "End-to-end SaaS analytics project focused on customer growth, retention, churn, recurring revenue (MRR), and business performance. This project uses PostgreSQL, Excel, and Tableau to transform transactional data into actionable business insights.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/Saas-growth-Retention-Analytics/main/03-tableau-unit-economics/Executive%20Overview%20(2).png",
+    link: {
+      table:
+        "https://public.tableau.com/app/profile/iqmal.bahrudin/viz/SaaSGrowthUnitEconomicsDashboard/Dashboard1",
+      github: "https://github.com/IqmalBA/Saas-growth-Retention-Analytics",
+    },
+  },
+  {
+    id: 8,
+    isDoble: true,
+    name: "Data Visualization with Tableau",
+    description:
+      "A collection of interactive Tableau dashboards and data visualizations developed across multiple analytics projects, demonstrating expertise in dashboard design, business intelligence, KPI reporting, and data storytelling.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/Saas-growth-Retention-Analytics/main/03-tableau-unit-economics/Executive%20Overview%20(2).png",
+    link: {
+      table:
+        "https://public.tableau.com/app/profile/iqmal.bahrudin/viz/SaaSGrowthUnitEconomicsDashboard/Dashboard1",
     },
   },
 ];
@@ -85,13 +113,12 @@ export default function Home() {
           Hello, <br /> I'm Iqmal Bahrudin
         </p>
         <p className="mt-2 max-w-md text-gray-400">
-          An Information Systems graduate with strong analytical and
-          problem-solving skills, focused on delivering measurable business
-          impact through data analytics. Experienced in database management,
-          data analysis, and data visualization using MySQL and Python to
-          transform raw data into actionable insights. Capable of supporting
-          strategic decision-making, improving operational efficiency, and
-          driving data-informed business outcomes.
+          Fresh graduate in Information Systems with hands-on experience in data
+          analysis, data visualization, and data-driven storytelling. Proficient
+          in Python, SQL, Excel, and Tableau, with a strong ability to translate
+          analytical insights into clear narratives supporting business and
+          marketing decision-making. Experienced in project-based, bootcamp, and
+          independent study environments.
         </p>
 
         <a
