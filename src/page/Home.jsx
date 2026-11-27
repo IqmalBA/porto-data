@@ -9,7 +9,7 @@ const projects = [
     description:
       "An automated reporting pipeline that turns daily Data email reports into a live, mobile-friendly web dashboard.",
     image:
-      "https://raw.githubusercontent.com/IqmalBA/Social_media_analsyst_dashboard/master/picture/pic2.jpeg",
+      "https://raw.githubusercontent.com/IqmalBA/Social_media_analsyst_dashboard/master/pic2.jpeg",
     link: {
       github: "https://github.com/IqmalBA/Social_media_analsyst_dashboard",
     },
