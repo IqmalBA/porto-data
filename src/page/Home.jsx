@@ -5,13 +5,16 @@ const projects = [
   {
     id: 1,
     isDoble: false,
-    name: "Management Database by MYSQL",
+    name: "ETL Dashboard Social Media",
     description:
-      "Experience in database manipulation and MySQL database management. Projects I have completed include data analysis of transaction data from the Data Analysis Bootcamp. Additionally, I have been using MySQL since the second semester of my studies.",
+      "An automated reporting pipeline that turns daily Data email reports into a live, mobile-friendly web dashboard.",
     image:
-      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/dbms1%20(1).png",
-    link: { github: "https://github.com/IqmalBA/DBMS" },
+      "https://raw.githubusercontent.com/IqmalBA/Social_media_analsyst_dashboard/master/picture/pic2.jpeg",
+    link: {
+      github: "https://github.com/IqmalBA/Social_media_analsyst_dashboard",
+    },
   },
+
   {
     id: 2,
     isDoble: true,
@@ -68,12 +71,12 @@ const projects = [
   {
     id: 6,
     isDoble: false,
-    name: "Management Excel",
+    name: "Management Database by MYSQL",
     description:
-      "The Excel-based projects are outputs from the Independent Data Scientist and Analyst Study, where the projects involved data analysis. Additionally, there are several projects from the MS Office Training Institute assignments.",
+      "Experience in database manipulation and MySQL database management. Projects I have completed include data analysis of transaction data from the Data Analysis Bootcamp. Additionally, I have been using MySQL since the second semester of my studies.",
     image:
-      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel%202%20(1).png",
-    link: { github: "https://github.com/IqmalBA/management_use_excel" },
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/dbms1%20(1).png",
+    link: { github: "https://github.com/IqmalBA/DBMS" },
   },
 
   {
@@ -86,8 +89,20 @@ const projects = [
       "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/py4%20(1).png",
     link: { github: "https://github.com/IqmalBA/analyst_data_selling_product" },
   },
+
   {
     id: 8,
+    isDoble: false,
+    name: "Management Excel",
+    description:
+      "The Excel-based projects are outputs from the Independent Data Scientist and Analyst Study, where the projects involved data analysis. Additionally, there are several projects from the MS Office Training Institute assignments.",
+    image:
+      "https://raw.githubusercontent.com/IqmalBA/analyst_data_selling_product/master/picture/excel%202%20(1).png",
+    link: { github: "https://github.com/IqmalBA/management_use_excel" },
+  },
+
+  {
+    id: 9,
     name: "All Certificate",
     description: "My Document Certificate",
     image:
