@@ -129,12 +129,12 @@ export default function Home() {
           Hello, <br /> I'm Iqmal Bahrudin
         </p>
         <p className="mt-2 max-w-md text-gray-400">
-          Fresh graduate in Information Systems with hands-on experience in data
-          analysis, data visualization, and data-driven storytelling. Proficient
-          in Python, SQL, Excel, and Tableau, with a strong ability to translate
-          analytical insights into clear narratives supporting business and
-          marketing decision-making. Experienced in project-based, bootcamp, and
-          independent study environments.
+          Information Systems graduate with hands-on experience in data
+          analytics, business analysis, market research, and digital marketing.
+          Skilled in transforming data into actionable insights, identifying
+          business opportunities, and supporting strategic decision making.
+          Strong analytical and problem-solving skills, with a keen interest in
+          technology, business strategy, and continuous learning.
         </p>
 
         <a
